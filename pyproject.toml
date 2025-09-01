@@ -15,4 +15,4 @@ build-backend = "uv_build"
 
 [tool.setuptools.packages.find]
 where = ["src/"]
-include = ["pspplot.pspplot"]
+include = ["pspcomtrade.pspcomtrade"]
